@@ -1,3 +1,3 @@
-![wiskiy]("./wiskiy.png")
+![WISKIY](./wiskiy.png)
 
 # EXTREME WIP
