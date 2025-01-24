@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: "psr";
+  src: url("./PSR-Semi.otf");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "polite";
+  src: url("./PoliteType-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}

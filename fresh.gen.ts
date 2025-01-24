@@ -9,6 +9,8 @@ import * as $greet_name_ from "./routes/greet/[name].tsx"
 import * as $index from "./routes/index.tsx"
 import * as $ASCIIText from "./islands/ASCIIText.tsx"
 import * as $Counter from "./islands/Counter.tsx"
+import * as $DecryptedText from "./islands/DecryptedText.tsx"
+import * as $HeroText from "./islands/HeroText.tsx"
 import * as $Noise from "./islands/Noise.tsx"
 import * as $Squares from "./islands/Squares.tsx"
 import * as $Waves from "./islands/Waves.tsx"
@@ -25,6 +27,8 @@ const manifest = {
   islands: {
     "./islands/ASCIIText.tsx": $ASCIIText,
     "./islands/Counter.tsx": $Counter,
+    "./islands/DecryptedText.tsx": $DecryptedText,
+    "./islands/HeroText.tsx": $HeroText,
     "./islands/Noise.tsx": $Noise,
     "./islands/Squares.tsx": $Squares,
     "./islands/Waves.tsx": $Waves,
